@@ -1,0 +1,1 @@
+Merhaba daha öncesinde böyle bir uygulama geliştirmediğimden mevcut bulduğum bir uygulamaya bir kaç fonksiyon eklemeye çalıştım.İyi günler iyi çalışmalar dilerim.
